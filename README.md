@@ -1,4 +1,4 @@
-### Online Code Editor  [See Live](https://leetcode-ide.vercel.app/)
+### CodeClause Golden Project-Online Code Editor  [See Live](https://leetcode-ide.vercel.app/)
 
 - It is a clone of Online IDE
 
